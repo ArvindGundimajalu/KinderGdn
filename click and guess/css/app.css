@@ -1,0 +1,25 @@
+img{
+    height: 160px;
+    width: 160px;
+    background-color: powderblue;
+  }
+
+  .letters
+  {
+        font-size: large;
+        background-color: yellow;   
+  }
+
+  .right
+  {
+      background-color: green;
+      border: green;
+      border-width: 5px;
+  }
+
+  .wrong
+  {
+      background-color: red;
+      border: red;
+      border-width: 5px;
+  }
